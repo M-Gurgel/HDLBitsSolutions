@@ -1,7 +1,7 @@
 # HDLBitsSolutions
 Solutions for HDLBits Problems
 
-This Repository is intended to include solutions for the problems on [HDLBits Problem sets page](https://hdlbits.01xz.net/wiki/Problem_sets) as of march 2021.
+This Repository includes my solutions for the problems on [HDLBits Problem sets page](https://hdlbits.01xz.net/wiki/Problem_sets) as of march 2021.
 
 Some answers may not be suitable for real world applications but all of them passed the test cases provided by the site.
 In more than one occasion I got stuck on some problems and only got a success after referring to online resources listed below:
